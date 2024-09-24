@@ -104,3 +104,38 @@ Cloud computing offers IT resources through the internet, eliminating the need f
 
 ## Summary
 Cloud computing provides scalable IT services over the internet, offering businesses flexibility in hardware and software resources without the need for physical infrastructure management.
+
+
+
+# Cloud Delivery Models and IT Stack
+
+## IT Delivery Stack
+
+The IT delivery stack consists of several layers, each with its own components. Understanding this stack is crucial for grasping cloud delivery models.
+
+### Stack Layers (from bottom to top):
+
+1. Network
+2. Storage
+3. Servers (Processor, RAM)
+4. Virtualization
+5. Operating Systems
+6. Runtime
+7. Data
+8. Applications
+
+Each layer in this stack has its own set of components and complexities.
+
+## On-Premises Model
+
+In the on-premises model:
+
+- The entire IT stack is located at the client's site
+- The client is responsible for managing the entire stack
+- This includes all aspects of maintenance and operation
+
+**Note**: Some cloud providers, like AWS, can provide a physical rack to the client, but the management responsibility remains with the client.
+
+## Cloud Delivery Models
+
+Cloud delivery models determine how the IT stack is divided between the client and the service provider (cloud provider). The division of responsibilities varies depending on the chosen model.

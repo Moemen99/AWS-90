@@ -173,6 +173,37 @@ Key points:
 - Provider deploys the application on appropriate machines
 - Clients have no direct server management responsibilities
 
+
+### 4. Software as a Service (SaaS)
+
+In the SaaS model:
+
+- The cloud provider manages the entire stack, including the application
+- The client only uses the application, with no management responsibilities
+
+Key points:
+- SaaS is not limited to cloud providers; many mobile and web applications are SaaS
+- Examples include CRM systems, where companies subscribe to a service rather than hosting it themselves
+- SaaS applications are ready to use, with no infrastructure management required by the client
+
+## Practical Application of Cloud Delivery Models
+
+In real-world scenarios, organizations typically use a combination of these models rather than choosing just one:
+
+1. **Hybrid Approach**: Companies often divide their IT solutions across different models based on specific needs.
+
+2. **Examples of mixed usage**:
+   - SaaS: For ready-to-use applications like monitoring systems
+   - PaaS: When runtime management is not desired
+   - IaaS: For scenarios requiring more control over the server environment
+   - On-premises: For systems that need to remain in-house, connected to cloud services
+
+3. **Flexibility**: This mixed approach allows organizations to optimize their IT infrastructure based on security, control, and management preferences.
+
+4. **Integration**: Different models can be integrated, allowing for connections between on-premises systems and various cloud services.
+
+Remember, the choice of model(s) depends on specific business needs, security requirements, and desired levels of control and management.
+
 ## Cloud Delivery Models
 
 Cloud delivery models determine how the IT stack is divided between the client and the service provider (cloud provider). The division of responsibilities varies depending on the chosen model.

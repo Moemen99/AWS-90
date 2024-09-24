@@ -45,3 +45,62 @@ This course is suitable for:
 ## Note
 
 This course is part of a broader DevOps curriculum and specifically targets AWS DevOps practices.
+
+
+# Introduction to Cloud Computing
+
+## Traditional IT Infrastructure
+
+### Hardware and Software Basics
+- Computers and networking devices form the hardware base
+- Software applications drive business efficiency and productivity
+
+### Common Business Applications
+- Enterprise Resource Planning (ERP)
+- Customer Relationship Management (CRM)
+- Asset Management
+- Business Intelligence
+- Marketing Automation
+- Communication Management
+- Human Resources
+- Mobility Management
+- Content Management Systems (CMS)
+
+### Varying IT Needs
+- Small companies: Minimal server requirements
+- Larger companies: Dedicated IT rooms or data centers
+  - Multiple racks, servers, networking devices
+  - Complex cabling and cooling systems
+
+## Evolution to Data Centers
+- Large-scale facilities designed for IT infrastructure
+- Specialized construction and layout
+- Efficient cooling and cable management
+- Various server rack configurations (1U, 2U, 3U)
+- Specialized storage servers (HDDs, SSDs)
+- Storage Area Network (SAN) technology
+
+## Cloud Computing Concept
+
+### Definition
+Cloud computing offers IT resources through the internet, eliminating the need for on-premises infrastructure.
+
+### Key Features
+1. Flexible resource allocation
+   - Scale from 1 to 10,000+ servers
+   - Rent partial or multiple "virtual IT rooms"
+2. On-demand networking devices
+3. Pay-as-you-go model
+4. Access to both hardware and software services
+
+### Cloud vs. Web Hosting
+- Cloud: Scalable, flexible IT resources
+- Web Hosting: Limited to predefined server packages
+
+### Types of Cloud Services
+1. Foundation Services (Hardware)
+2. Application Services (Software)
+3. Deployment and Management Services
+
+## Summary
+Cloud computing provides scalable IT services over the internet, offering businesses flexibility in hardware and software resources without the need for physical infrastructure management.

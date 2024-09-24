@@ -136,6 +136,43 @@ In the on-premises model:
 
 **Note**: Some cloud providers, like AWS, can provide a physical rack to the client, but the management responsibility remains with the client.
 
+
+### 2. Infrastructure as a Service (IaaS)
+
+In the IaaS model:
+
+- The cloud provider manages:
+  - Networking
+  - Storage
+  - Servers
+  - Virtualization
+  - Operating Systems
+- The client is responsible for:
+  - Runtime
+  - Data
+  - Applications
+
+Key points:
+- Clients rent resources from the provider's data center
+- Provider manages physical infrastructure (cables, networking devices, servers, storage)
+- Clients can choose virtual servers and operating systems
+- Clients are not responsible for physical hardware management
+
+### 3. Platform as a Service (PaaS)
+
+In the PaaS model:
+
+- The cloud provider manages everything up to and including the runtime environment
+- The client is only responsible for:
+  - Data
+  - Applications
+
+Key points:
+- Provider prepares servers with necessary runtimes (e.g., Java)
+- Clients only need to specify their application and data
+- Provider deploys the application on appropriate machines
+- Clients have no direct server management responsibilities
+
 ## Cloud Delivery Models
 
 Cloud delivery models determine how the IT stack is divided between the client and the service provider (cloud provider). The division of responsibilities varies depending on the chosen model.
